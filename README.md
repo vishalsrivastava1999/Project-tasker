@@ -3,7 +3,7 @@
 I've done this assignment using xampp application, through xampp I was able to set a localhost.
 -After starting apache and mysql in xampp,further steps you have to follow:
 -extract the zip file you have downloaded through my github link.
--copy the main folder and paste in xampp/htdocs folder.
+-copy the main folder "tasker" and paste in xampp/htdocs folder.
 -now,open the browser and go on this url “http://localhost/phpmyadmin/”.
 -when the phpmyadmin site is opened,click on databases tab.
 -create a database,name it "tasker" and then click import tab.
