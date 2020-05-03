@@ -9,5 +9,5 @@ I've done this assignment using xampp application, through xampp I was able to s
 ->create a database,name it "tasker" and then click import tab.
 ->click on browse file and select "tasker.sql"file which is inside the folder you have copied in htdocs,click on go.
 ->now when database is created then open a browser and go to URL “http://localhost/Tasker/”.
-->now for admin login, username- vishal 
-                      password- vishal123
+->now for admin login, ->username- vishal 
+                       ->password- vishal123
