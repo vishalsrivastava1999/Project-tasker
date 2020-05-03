@@ -1,0 +1,13 @@
+# Project-tasker
+(I'm assuming that you already have xampp installed in your system.) 
+I've done this assignment using xampp application, through xampp I was able to set a localhost.
+-After starting apache and mysql in xampp,further steps you have to follow:
+-extract the zip file you have downloaded through my github link.
+-copy the main folder and paste in xampp/htdocs folder.
+-now,open the browser and go on this url “http://localhost/phpmyadmin/”.
+-when the phpmyadmin site is opened,click on databases tab.
+-create a database,name it "tasker" and then click import tab.
+-click on browse file and select "tasker.sql"file which is inside the folder you have copied in htdocs,click on go.
+-now when database is created then open a browser and go to URL “http://localhost/Tasker/”.
+-now for admin login, username- vishal 
+                      password- vishal123
